@@ -35,6 +35,7 @@ const flash = require ("connect-flash")
 
     
      var erros = []
+//aqui -_-
   app.post(function(request ,response ,next){
 if (request.body.nome || typeof request.body.nome == undefined || request.body.nome == null){
     erros.push({texto:"nome invalido"})
