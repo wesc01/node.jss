@@ -1,0 +1,65 @@
+{
+  
+  "name": "blog",
+  
+  "version": "1.0.0",
+  
+  "description": "vamo ve",
+  
+  "main": "index.js",
+  
+  "scripts": {
+  
+    
+  "dev": "nodemon indexx.js",
+  
+    
+  "test": "po"
+  
+  },
+  
+  "keywords": [
+  
+    
+  "node.js",
+  
+    
+  "package.json"
+  
+  ],
+  
+  "author": "wendell",
+  
+  "license": "MIT",
+  
+  "dependencies": {
+  
+    
+  "body-parser": "^2.2.0",
+  
+    
+  "connect-flash": "^0.1.1",
+  
+    
+  "express": "^4.21.2",
+  
+    
+  "express-handlebars": "^8.0.1",
+  
+    
+  "express-session": "^1.18.1",
+  
+    
+  "handlebars": "^4.7.8",
+  
+    
+  "mysql2": "^3.14.0",
+  
+    
+  "nodemon": "^3.1.9",
+  
+    
+  "sequelize": "^6.37.6"
+  
+  }
+}
